@@ -6,7 +6,7 @@
 -------------------------------------------------------------------------
 --- DO NOT SELL THIS SCRIPT TO ANYONE OR REUSE IT WITHOUT PERMISSION! ---
 
-Rfunction arma(weaponHash)
+function arma(weaponHash)
     GiveWeaponToPed(GetPlayerPed(-1), GetHashKey(weaponHash), 100, false)
 end
 
