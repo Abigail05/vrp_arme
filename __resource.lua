@@ -1,5 +1,5 @@
 
-description "vRP restart command"
+description "vRP weapons command"
 
 dependency "vrp"
 
